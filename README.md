@@ -1,6 +1,6 @@
 ## Olá, seja bem-vindo ao meu perfil no GitHub! 👋
 
-Sou Roger Ferraz, formado em Tecnólogo de Análise e Desenvolvimento de Sistemas e atualmente estou cursando Desenvolvimento Web Full Stack pela Kenzie Academy Brasil. Apesar de não possuir experiência de mercado, tenho uma paixão por programação e venho me dedicando ao desenvolvimento de projetos semanais em diversas áreas, incluindo front-end, back-end e full-stack.
+Sou Roger Magalhães Ferreira, formado em Tecnólogo de Análise e Desenvolvimento de Sistemas e atualmente estou cursando Desenvolvimento Web Full Stack pela Kenzie Academy Brasil. Apesar de não possuir experiência de mercado, tenho uma paixão por programação e venho me dedicando ao desenvolvimento de projetos semanais em diversas áreas, incluindo front-end, back-end e full-stack.
 
 ### Sobre mim
 
