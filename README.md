@@ -2,6 +2,8 @@
 
 Sou Roger Magalhães Ferreira, formado em Tecnólogo de Análise e Desenvolvimento de Sistemas e atualmente estou cursando Desenvolvimento Web Full Stack pela Kenzie Academy Brasil. Apesar de não possuir experiência de mercado, tenho uma paixão por programação e venho me dedicando ao desenvolvimento de projetos semanais em diversas áreas, incluindo front-end, back-end e full-stack.
 
+Meu portifólio: https://portifolio-roger-magalhaes.vercel.app/
+
 ### Sobre mim
 
 - 🎓 Formação acadêmica: Tecnólogo de Análise e Desenvolvimento de Sistemas.
@@ -34,7 +36,7 @@ Sou Roger Magalhães Ferreira, formado em Tecnólogo de Análise e Desenvolvimen
 
 - 📧 Email: rogermferr@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/rogermferr](https://www.linkedin.com/in/rogermferr/)
-- 
+
 Fique à vontade para explorar meus repositórios para ver meus projetos em ação. Estou sempre em busca de novos desafios e adoraria colaborar em projetos interessantes. Se você tiver alguma ideia ou proposta, sinta-se à vontade para entrar em contato.
 
 Happy coding! 😄🚀
